@@ -4,4 +4,8 @@ const cliente = {
     cpf: "123445753"
 }
 
-chaves = ["nome", 2]
+chaves = ["nome", "idade", "cpf"]
+
+chaves.forEach((chave) => {
+    console.log('A chave $)
+});
