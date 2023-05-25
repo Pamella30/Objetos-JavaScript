@@ -1,5 +1,3 @@
-Objetos - JavaScript
-
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | Objetos
